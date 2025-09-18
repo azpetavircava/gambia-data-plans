@@ -66,3 +66,10 @@ layout: default
 
 　　最后一个小贴士：带上一个轻便的充电宝。疯狂找信号、开地图导航，电量消耗会比想象中快得多。保持在线，也别忘了欣赏眼前真实的冈比亚河风光。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Gambia SIM 卡购买与激活指南](https://faciylike.github.io/gambia-sim-guides)
